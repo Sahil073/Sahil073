@@ -1,30 +1,15 @@
 ## Connect with Me
 
 <p align="center" style="font-family: Arial, sans-serif;">
-
-<table align="center" style="margin: auto; border-collapse: collapse; text-align: center;">
-  <tr>
-    <td style="padding: 10px;">
-      <a href="https://linkedin.com/in/sahil--chaudhary" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-<!--         <div style="margin-top: 5px; font-weight: bold; color: #0077B5;">LinkedIn</div> -->
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="mailto:sahil.chaudhary7721@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-<!--         <div style="margin-top: 5px; font-weight: bold; color: #D14836;">Gmail</div> -->
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="(https://port-folio-flax-six.vercel.app/)" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-<!--         <div style="margin-top: 5px; font-weight: bold; color: black;">Portfolio</div> -->
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <a href="https://linkedin.com/in/sahil--chaudhary" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sahil.chaudhary7721@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://port-folio-flax-six.vercel.app/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 
