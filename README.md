@@ -80,7 +80,7 @@
 | **🔌 IoT / CV**           | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
 
 
-# 📊 GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
