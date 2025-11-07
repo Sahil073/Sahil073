@@ -33,7 +33,7 @@
       <td>1</td>
       <td>Microsoft Hackathon</td>
       <td>Agriculutre</td>
-      <td>Top 5 among 500+ participants</td>
+      <td>Top 5 among 500+ participants(All Over India)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -57,7 +57,7 @@
       <td>5</td>
       <td>Hacknovate 6.0 (ABES, India)</td>
       <td>Healthcare</td>
-      <td>Top 45 out of 200 teams</td>
+      <td>Top 45 out of 200 teams(All Over India)</td>
     </tr>
     <tr>
       <td>6</td>
