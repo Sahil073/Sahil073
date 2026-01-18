@@ -24,7 +24,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>0</td>
       <td>Hack4Health(HoribaCop)</td>
       <td>Healthcare</td>
       <td>Top 40(ALL Over India)</td>
