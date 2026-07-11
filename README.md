@@ -1,5 +1,43 @@
-## Connect with Me
+<div align="center">
 
+```
+::::-------------------::-:::::::::::-::::   sahil@github
+::::::::::::::.:.::......:................   -------------
+::::::::::::::.:....-+*####+:........:....   OS: ................ Windows 11 / Linux
+::::::::::::::.::-=+*##%%@@@*.....:..:....   Host: ............... Full Stack Developer
+:::-=:::::::::::*##%%####%%@@+::..:..:..::   Role: ................ Software Engineer
+::-@@*+-::::::::#@@@@@@@@@@%*:::..:.::..::   Editor: .............. VS Code
+::-==%@=::::::::=*#%@@@@%##+-:::.:..:...::
+::::=**--:::::::::::*###***=:.::::..:..:::   Languages: ........... Java, Python, JS, C++
+::::-++--:::::::::::=+*#%%**%=::::.:::.:::   Web: .................. React, Node.js
+:::-=++=:-::::::::=%@@#**+++%@=-:..:::::::   Focus: ................ Full Stack, Hackathons
+::-=%#++-::::::=**@@@@%***##@@@%#+=-::::::
+::-:#%%@%-::=*#@@@@@@@@@@@@@@@@@@@@%=::-::   Hackathons.Total: ..... 7
+::-:#@@@@*:-%@@@@@@@@----=#@@@@@@@@@@=--::   Hackathons.Wins: ...... 1st Place x1, Top 5 x1
+::--*@@@@%*@@@@@@@@@@.    #@@@@@@@@@@#--::   Hackathons.TopFinish: . Top 40 / Top 10 / Top 45
+::---%@@@@@@@@@@@@@@@-:::-@@@##@@@@@@@--::
+-:---+@@@@@@@@@@@@@@%*=+*%@@@@@@@@@@@@%-::   Contact ------------------------
+------%@@@@@@#+%@@@@+----=%@@@@@@@@@@#=-=:   LinkedIn: ............. sahil--chaudhary
+------=*#**+---%@@@@*=-==-*@@@@@@@@@@#..:-   Email: ................ sahil.chaudhary7721@gmail.com
+------==-------%@@@@@++++*%@@@@@@@@@@@@---   Portfolio: ............ port-folio-flax-six.vercel.app
+---=========--=@@@@@@#+++#@@@@@@@@@@@@@%--
+---==========-+@@@@@@*===+#@@@@@@@@#**+=--   GitHub Stats ------------------------
+=--==========-*@@@@@%+====+@@@@@@@@=------   Username: ............. Sahil073
+=--=====+=====#@@@@@#==---+@@@@@@@@*-----=   Repos: ................ (live badge below)
+=--=====+====+@@@@@@*=--=+*%@@@@@@@%-----=   Streak: ............... (live badge below)
+========+====#@@@@@@*==+++*#@@@@@@@@+=====   Top Langs: ............ (live badge below)
+========++===%@@@@@@@%%%@@@@@@@@@@@@*=====
++===++==+++++#@@@@@@@@@@@@@@@@@@@@@@#=====
+++==++==++++++*@@@@@@@@@@@@@@@@@@@%#+=====
+++==+++=++++++*@@@@@@@@@@@@@@@@@@#====++++
++++=++++++++++*@@@@@@@@@@@@@@##%@#=+=+++++
++++=+++++++++++@@@@@@@@@@@@@@@@@@%=+++++++
++++==++++++++++@@@@@@@@@%@@@@@@@@@++++++++
+```
+
+</div>
+
+## Connect with Me
 <p align="center" style="font-family: Arial, sans-serif;">
   <a href="https://linkedin.com/in/sahil--chaudhary" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -11,7 +49,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 
 <table align="center">
   <thead>
@@ -68,35 +105,25 @@
   </tbody>
 </table>
 
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
-
 <h2 align="center">GitHub Stats</h2>
-
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=Sahil073&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="margin-bottom: 15px;" /><br />
-
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sahil073&theme=dark&hide_border=false" alt="GitHub Streak" style="margin-bottom: 15px;" /><br />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil073&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="margin-bottom: 30px;" /><br />
-
   <h2>🏆Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=Sahil073&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="margin-bottom: 30px;" /><br />
 
 <div align="center">
-
-
   <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=Sahil073&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-
 </div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Sahil073&icon=2&color=1)](https://visitcount.itsvg.in)
                                                                             Show some  ❤️  by starring some of the repositories!
 
