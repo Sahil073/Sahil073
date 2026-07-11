@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
 ::::-------------------::-:::::::::::-::::   sahil@github
 ::::::::::::::.:.::......:................   -------------
@@ -34,8 +32,6 @@
 +++=+++++++++++@@@@@@@@@@@@@@@@@@%=+++++++
 +++==++++++++++@@@@@@@@@%@@@@@@@@@++++++++
 ```
-
-</div>
 
 <h3 align="center">AI/ML Researcher · Full-Stack Builder · Hackathon Competitor</h3>
 <p align="center">Building things that need to actually work — and then figuring out <em>why</em> they work.</p>
